@@ -65,7 +65,3 @@ Matriz de confusión: 393 graduados correctamente identificados, 49 graduados se
 Se aplica CRISP-DM: comprensión del problema, comprensión y preparación de datos, modelado, evaluación y propuesta de uso responsable. Se usa partición estratificada 80/20, validación cruzada de cinco particiones sobre entrenamiento y evaluación final sobre test. El umbral inicial de clasificación es 0,50.
 
 Los datos describen asociaciones, no relaciones causales. El modelo no debe emplearse para sancionar, excluir o decidir automáticamente sobre estudiantes. Antes de un piloto deben revisarse sesgos, privacidad, disponibilidad temporal de variables y desempeño en cohortes recientes.
-
-## Publicación
-
-Subir los archivos de este directorio a un **repositorio público** de GitHub. La URL del repositorio debe incorporarse al informe y a la entrega de la UTN. No se debe subir información personal de estudiantes ni credenciales.
